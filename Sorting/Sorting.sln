@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting.Example01.BigSort",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting.Example02.BubleSort", "Sorting.Example02.BubleSort\Sorting.Example02.BubleSort.csproj", "{9870617E-71C5-4825-986D-FE8E69E4AD34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting.Example03.FindMaxiumNumberOfToy", "Sorting.Example03.FindMaxiumNumberOfToy\Sorting.Example03.FindMaxiumNumberOfToy.csproj", "{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9870617E-71C5-4825-986D-FE8E69E4AD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9870617E-71C5-4825-986D-FE8E69E4AD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9870617E-71C5-4825-986D-FE8E69E4AD34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
