@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting.Example03.FindMaxiu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting.Example04.Comparator", "Sorting.Example04.Comparator\Sorting.Example04.Comparator.csproj", "{E8A36CD3-15AA-4A32-8CBB-338D65AC3AEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting.Example05.ActivityNotifications", "Sorting.Example05.ActivityNotifications\Sorting.Example05.ActivityNotifications.csproj", "{34FCEB88-F43A-4A42-8651-EEDC078929A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E8A36CD3-15AA-4A32-8CBB-338D65AC3AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8A36CD3-15AA-4A32-8CBB-338D65AC3AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8A36CD3-15AA-4A32-8CBB-338D65AC3AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FCEB88-F43A-4A42-8651-EEDC078929A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FCEB88-F43A-4A42-8651-EEDC078929A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FCEB88-F43A-4A42-8651-EEDC078929A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FCEB88-F43A-4A42-8651-EEDC078929A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
