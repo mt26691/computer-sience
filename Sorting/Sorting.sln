@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting.RadixSort", "Sortin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting.Example01.BigSort", "Sorting.Example01.BigSort\Sorting.Example01.BigSort.csproj", "{27F1E264-EEF8-4B4D-AAAB-4BC48C9C1D67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting.Example02.BubleSort", "Sorting.Example02.BubleSort\Sorting.Example02.BubleSort.csproj", "{9870617E-71C5-4825-986D-FE8E69E4AD34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting.Example02.BubleSort", "Sorting.Example02.BubleSort\Sorting.Example02.BubleSort.csproj", "{9870617E-71C5-4825-986D-FE8E69E4AD34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting.Example03.FindMaxiumNumberOfToy", "Sorting.Example03.FindMaxiumNumberOfToy\Sorting.Example03.FindMaxiumNumberOfToy.csproj", "{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting.Example03.FindMaxiumNumberOfToy", "Sorting.Example03.FindMaxiumNumberOfToy\Sorting.Example03.FindMaxiumNumberOfToy.csproj", "{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting.Example04.Comparator", "Sorting.Example04.Comparator\Sorting.Example04.Comparator.csproj", "{E8A36CD3-15AA-4A32-8CBB-338D65AC3AEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A37C5E92-9FCC-48FC-AF2A-064E8ACAF7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A36CD3-15AA-4A32-8CBB-338D65AC3AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A36CD3-15AA-4A32-8CBB-338D65AC3AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A36CD3-15AA-4A32-8CBB-338D65AC3AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A36CD3-15AA-4A32-8CBB-338D65AC3AEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
