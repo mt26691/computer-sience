@@ -118,6 +118,12 @@ namespace Sorting.Example05.ActivityNotifications
             return results;
         }
 
+        /// <summary>
+        /// Binary search to find proper index
+        /// </summary>
+        /// <param name="array"></param>
+        /// <param name="value"></param>
+        /// <returns></returns>
         static int FindInsertPoint(List<int> array, int value)
         {
             int minIndex = 0;
