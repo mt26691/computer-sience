@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph.01.Introduction", "Graph.01.Introduction\Graph.01.Introduction.csproj", "{36A5A662-6564-40E2-B590-F7794E65B035}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graph.01.Introduction", "Graph.01.Introduction\Graph.01.Introduction.csproj", "{36A5A662-6564-40E2-B590-F7794E65B035}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph.02.MinimunSpanningTree", "Graph.02.MinimunSpanningTree\Graph.02.MinimunSpanningTree.csproj", "{A6884593-04B6-43DD-A4B2-4414F738F4A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graph.02.MinimunSpanningTree", "Graph.02.MinimunSpanningTree\Graph.02.MinimunSpanningTree.csproj", "{A6884593-04B6-43DD-A4B2-4414F738F4A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph.Example.01.RoadAndLib", "Graph.Example.01.RoadAndLib\Graph.Example.01.RoadAndLib.csproj", "{F56B4F35-92BF-4FBD-A26C-B65AA7B514A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A6884593-04B6-43DD-A4B2-4414F738F4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6884593-04B6-43DD-A4B2-4414F738F4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6884593-04B6-43DD-A4B2-4414F738F4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56B4F35-92BF-4FBD-A26C-B65AA7B514A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56B4F35-92BF-4FBD-A26C-B65AA7B514A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56B4F35-92BF-4FBD-A26C-B65AA7B514A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56B4F35-92BF-4FBD-A26C-B65AA7B514A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
